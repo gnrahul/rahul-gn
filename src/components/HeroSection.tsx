@@ -42,7 +42,7 @@ const HeroSection = () => {
             </h1>
 
             <p className="text-base md:text-lg text-muted-foreground leading-relaxed mb-8 max-w-xl">
-              Master's candidate (PFH, March 2026) building measurable automation workflows, digital twin dashboards, and data pipelines using Python, Node-RED, MQTT, PLC concepts, and analytics.
+              AI & Automation Engineer building measurable automation workflows, digital twin dashboards, and data pipelines using Python, Node-RED, MQTT, PLC concepts, and analytics.
             </p>
 
             <div className="flex flex-wrap gap-3">
