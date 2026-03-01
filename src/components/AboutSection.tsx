@@ -23,8 +23,12 @@ const AboutSection = () => {
             About <span className="gradient-text">Me</span>
           </motion.h2>
 
-          <motion.p variants={fadeUp} custom={1} className="text-muted-foreground text-base md:text-lg leading-relaxed max-w-3xl mb-12">
-            I'm a Master's student in Digitalization & Automation with hands-on experience in robotics simulation, workflow optimization, and data-driven monitoring dashboards. I combine engineering thinking with Python-based automation, IoT communication (MQTT/Node-RED), and digital twin validation to build systems that are reliable, measurable, and scalable.
+          <motion.p variants={fadeUp} custom={1} className="text-muted-foreground text-base md:text-lg leading-relaxed max-w-2xl mb-6">
+            I am an AI & Automation Engineer with hands-on experience in building automation workflows, digital twin simulations, and data-driven monitoring systems. My background spans robotics, industrial automation concepts, and analytics, enabling me to design solutions that are both technically robust and operationally measurable.
+          </motion.p>
+
+          <motion.p variants={fadeUp} custom={1.5} className="text-muted-foreground text-base md:text-lg leading-relaxed max-w-2xl mb-12">
+            I specialize in transforming real-world processes into structured systems using Python, Node-RED, MQTT, and dashboard-driven KPIs. I bring an engineering mindset focused on reliability, scalability, and continuous improvement, and I am motivated to contribute immediately to production-grade systems in automation, digitalization, and data-driven environments.
           </motion.p>
 
           {/* Bento Grid */}
